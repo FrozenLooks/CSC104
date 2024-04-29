@@ -5,28 +5,20 @@ body{
 /*Sets paragraphs to green Papyrus font*/
 h1{
 	color: #FFC300;
-	text-shadow:0 0 2px tan;
 	font-family: Papyrus;
 }
-/*Sets paragraphs to green Papyrus font*/
+/*Sets paragraphs to a different green Papyrus font*/
 h2{
 	color: #6DEA90;
-	text-shadow:0 0 2px tan;
 	font-family: Papyrus;
 }
-/*Sets paragraphs to green Papyrus font*/
+/*Sets paragraphs to another green Papyrus font*/
 h3{
 	color: #DAF7A6;
-	text-shadow:0 0 2px tan;
 	font-family: Papyrus;
 }
 /*Sets paragraphs to tan Papyrus font*/
 p{
 	color: #EFD36F;
-	text-shadow:0 0 2px tan;
 	font-family: Papyrus;
-}
-/*Sets visited links to a classic purple*/
-a:visited{
-	color: purple;
 }
