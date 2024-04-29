@@ -1,35 +1,31 @@
 body{
-	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: linear-gradient(to right, #00FF00, #000000, #00aa00);
-	color: #00FF00;
+	color: #C70039;
 }
 
 h1{
-	color: #00eeff;
-	text-shadow:0 0 2px aqua;
-	font-family: times new roman, arial;
+	color: #FFC300;
+	text-shadow:0 0 2px tan;
+	font-family: Papyrus;
 }
 
 h2{
-	color: #000fff;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+	color: #6DEA90;
+	text-shadow:0 0 2px tan;
+	font-family: Papyrus;
 }
 
 h3{
-	color: #ffbbbb;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+	color: #DAF7A6;
+	text-shadow:0 0 2px tan;
+	font-family: Papyrus;
 }
 
 p{
-	color: #00bbbb;
-	text-shadow:0 0 2px purple;
-	font-family: times new roman, arial;
+	color: #EFD36F;
+	text-shadow:0 0 2px tan;
+	font-family: Papyrus;
 }
 
 a:visited{
-	color: aqua;
+	color: purple;
 }
